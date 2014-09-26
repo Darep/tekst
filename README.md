@@ -1,6 +1,6 @@
 # Tekst
 
-Ruby gem for typical HTML and text related operations e.g. HTML truncation, plain text snippet creating and reading time estimation among others.
+Ruby gem for typical HTML and text related operations e.g. HTML truncation, plain text snippet creating, syntax hilighting and such.
 
 
 ## Installation
